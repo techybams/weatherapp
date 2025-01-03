@@ -1,3 +1,4 @@
+This application is built with React. It shows the weather condition of places around the world.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
